@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "246053924162",
+    "project_id": "mess-2054c",
+    "storage_bucket": "mess-2054c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:246053924162:android:68785bc644db3d12766cdb",
+        "android_client_info": {
+          "package_name": "com.example.demo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDke7CUcIXEz9ZVjPWX-g8mns1QiFXuNI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
